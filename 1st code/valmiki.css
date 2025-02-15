@@ -1,0 +1,54 @@
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.bg {
+    background-color: #038137;
+    top: 0;
+    left: 0;
+    padding: 10px;
+    color: white;
+
+}
+
+p {
+    margin-left: 6rem;
+    display: inline-block;
+}
+
+.icons {
+    display: inline-block;
+    margin-left: 4rem;
+}
+
+.end par {
+    margin-right: 20px;
+    position: absolute;
+    top: 0;
+}
+
+.blue {
+
+    background-color: #ffffff;
+    display: flex;
+}
+
+li {
+    list-style-type: none;
+    padding: 15px;
+    font-weight: bold;
+
+    
+}
+ul{
+    display: flex;
+}
+.list{
+    padding-top: 30px;
+}
+.marque {
+    background-color: #bbbbbb;
+    padding: 5px;
+}
